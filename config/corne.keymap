@@ -17,10 +17,10 @@
 
         layer_Dan {
             bindings = <
-&kp ESC         &kp Q  &kp W  &kp E         &kp R             &kp T        &kp Y          &kp U     &kp F1        &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9
-&kp TAB         &kp A  &kp S  &kp D         &kp F             &kp C        &kp H          &kp J     &kp F2        &kp N4        &kp NUMBER_5  &kp NUMBER_6
-&kp LEFT_SHIFT  &kp Z  &kp X  &kp C         &kp V             &kp B        &kp N          &kp M     &kp F10       &kp N1        &kp N2        &kp N3
-                              &kp LEFT_ALT  &kp LEFT_CONTROL  &kp SPACE    &kp BACKSPACE  &kp LWIN  &kp NUMBER_0
+&kp ESC         &kp Q  &kp W  &kp E         &kp R      &kp T        &kp Y          &kp U     &kp F1        &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9
+&kp TAB         &kp A  &kp S  &kp D         &kp F      &kp C        &kp H          &kp J     &kp F2        &kp N4        &kp NUMBER_5  &kp NUMBER_6
+&kp LEFT_SHIFT  &kp Z  &kp X  &kp C         &kp V      &kp B        &kp N          &kp M     &kp F10       &kp N1        &kp N2        &kp N3
+                              &kp LEFT_ALT  &kp RCTRL  &kp SPACE    &kp BACKSPACE  &kp LWIN  &kp NUMBER_0
             >;
         };
 
